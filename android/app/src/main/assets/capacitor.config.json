@@ -1,0 +1,6 @@
+{
+	"appId": "com.gallery",
+	"appName": "GalleryPhotos",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
